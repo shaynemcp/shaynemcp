@@ -1,4 +1,6 @@
 ### About Me
-My name is Shayne McPherson and I am currently in training to be a Full Stack Developer in Java for the Google Cloud Platform. A lot of my prior work has been in Aerospace where I have worked in the rocket propulsion industry as well as MBSE design. Both of these experiences have allowed me to work under senior engineers responsible for leading edge technology development within an industry which will shape the way we not only travel, but continue to advance international commerce and keeps me excited to add new skills to my technical arsonal. 
-
-I first began my interest in development working on an Arduino project which allowed a car to use light sensors to follow a race course which consisted of a black line on a white background. This Line follower program challenged me to learn not only software technologies, but also electrical design and implementation and fostered a lot of the teamwork skills that I am able to utilize today. As a budding developer I hope to improve upon these skills as well as gain new interests within the technology world.
+Full Stack Web Developer 
+Java GCP
+.Net/C#
+Angular, React
+MySql, PostgreSQL
